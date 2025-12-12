@@ -12,6 +12,7 @@ Estructura del repositorio
 - [`linux/`](./linux) – Pruebas con comandos básicos, permisos, estructuras de directorios, análisis de procesos y administración de sistemas Linux.
 - [`windows/`](./windows) – Laboratorios orientados a administración con PowerShell, exploración de procesos, tareas automatizadas y red local.
 - [`web/`](./web) – Ejercicios enfocados en seguridad web, HTTP, DNS, WAF, exploración de cabeceras, y vulnerabilidades comunes.
+- [`SIEM/`](./SIEM) – Laboratorios enfocados en SIEM, Alertas, monitoreo, logs, autenticacion, y vulnerabilidades comunes.
 
 ---
 
